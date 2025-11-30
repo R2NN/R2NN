@@ -2,7 +2,7 @@
 
 # Даниил Кириченко
 
-**Machine Learning Engineer | Data Scientist**
+**AI Engineer | ML Developer**
 
 Студент 3 курса, Финансовый университет при Правительстве РФ
 *(Прикладная математика и информатика)*
@@ -12,17 +12,15 @@
 </div>
 
 ---
+Инженер-разработчик решений на базе искусственного интеллекта. Специализируюсь на создании **автономных AI-агентов**, продуктовой разработке и исследованиях в области **Deep Learning**.
 
-ML-инженер со специализацией в двух ключевых направлениях: **прикладная разработка AI-продуктов** и **исследования в области Data Science**.
-
-Занимаюсь проектированием и внедрением автономных AI-агентов, обеспечивая полный цикл разработки: от сбора данных и обучения моделей до деплоя микросервисов. Параллельно развиваю компетенции в Deep Learning и Computer Vision через решение алгоритмических задач и участие в международных соревнованиях на платформе Kaggle.
+Обладаю компетенциями полного цикла: от обучения моделей компьютерного зрения и участия в соревнованиях **Kaggle** до проектирования архитектуры умных агентов и их внедрения в реальные бизнес-процессы. Сочетаю использование Low-code инструментов оркестрации (n8n) с классической ML-разработкой на Python.
 
 ## Ключевые компетенции
 
-*   **AI Engineering & Automation:** Разработка архитектуры умных агентов, оркестрация LLM и построение автоматизированных пайплайнов (n8n, LangChain).
-*   **Data Science & Research:** Работа с SOTA-архитектурами нейронных сетей, обучение моделей компьютерного зрения (CV), участие в соревнованиях Kaggle.
-*   **Product Development:** Интеграция ML-решений в бизнес-логику, разработка backend (FastAPI), контейнеризация (Docker) и создание интерфейсов (Telegram Bots).
-*   **Generative AI:** Работа с большими языковыми моделями (RAG, Fine-tuning) и генеративными мультимедиа моделями.
+*   **AI Engineering:** Проектирование мультиагентных систем, автоматизация рабочих процессов (Workflows) с помощью n8n и LangChain. Интеграция LLM (RAG, Fine-tuning) в прикладные задачи.
+*   **ML Development & Research:** Разработка и обучение моделей компьютерного зрения (CV), работа с SOTA-архитектурами, решение алгоритмических задач на платформах Kaggle.
+*   **Product Implementation:** Разработка backend-составляющей (FastAPI), контейнеризация приложений (Docker), создание пользовательских интерфейсов (Telegram Bots).
 
 ---
 
@@ -31,12 +29,11 @@ ML-инженер со специализацией в двух ключевых
 | Направление | Инструменты |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **AI Agents** | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
-| **Infrastructure** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **ML Core** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **AI Tools** | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| **Backend & Infra** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
-
 
 ## Образование
 
